@@ -12,7 +12,7 @@
     "connect-mongo": "^1.1.0",
     "creditcard": "^0.1.2",
     "ejs": "*",
-    "express": "3.2.6",
+    "express": "4.17.1",
     "express-session": "^1.13.0",
     "is-valid-zip": "0.0.3",
     "mocha": "^2.4.5",
